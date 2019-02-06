@@ -1,3 +1,4 @@
+//Database for Assignment i.e Question 3.
 <?php 
 
 $db['db_host'] = "localhost";
