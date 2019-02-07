@@ -22,7 +22,7 @@
             
            
             
-            
+//Code to encrypt the data.            
 <?php 
 
             if(isset($_POST['submit_click'])) {
@@ -74,7 +74,7 @@
          </div>
         
 </form> 
-  
+//Code to decrypt the encrypted data.
             <?php 
                 
                 $query =  "SELECT * FROM form1";
